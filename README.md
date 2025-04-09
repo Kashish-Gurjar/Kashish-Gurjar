@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I'm an MCA student with a strong academic backgrou
 
 ### 🛠 Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| 🐾 **Animal Voice AI Project** | AI-powered app that uses Bolt.New and prompt engineering to generate realistic animal sounds. | [GitHub](https://github.com/Kashish-Gurjar/Animal-Project) |
-| 🌐 **My Portfolio** | A personal website to showcase my projects and resume. | [Live](https://kashish-gurjar.github.io/My-Portfolio) \| [Repo](https://github.com/Kashish-Gurjar/My-Portfolio) |
-| 🧮 **Web Calculator** | Fully responsive calculator built with HTML, CSS & JS. | – |
-| 📊 **Trading & Analysis Tools** | Gained experience working on financial data platforms. | – |
+| Project | Description | Live Demo | GitHub |
+|--------|-------------|-----------|--------|
+| 🐾 **Animal Voice AI Project** | AI-powered app that uses Bolt.New and prompt engineering to generate realistic animal sounds. | – | [Repo](https://github.com/Kashish-Gurjar/Animal-Project) |
+| 🌐 **My Portfolio** | A personal website to showcase my projects and resume. | [Live Site](https://kashish-gurjar.github.io/My-Portfolio) | [Repo](https://github.com/Kashish-Gurjar/My-Portfolio) |
+| 🧮 **Web Calculator** | Fully responsive calculator built with HTML, CSS & JS. | – | – |
+| 📊 **Trading & Analysis Tools** | Gained experience working on financial data platforms. | – | – |
 
 ---
 
